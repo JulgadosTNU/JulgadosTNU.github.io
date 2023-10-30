@@ -2,7 +2,7 @@
 
 Compilação de julgados da TNU até setembro de 2023
 
-Link para a página em PDF: https:/github.com/JulgadosTNU.github.io/julgados.pdf
+Link para a página em PDF: <https:/julgadostnu.github.io/julgados.pdf>
 
 <a href="https://julgadostnu.github.io/julgados.pdf" title="Compilação de julgados">Clique aqui para acessar o arquivo</a>
 
