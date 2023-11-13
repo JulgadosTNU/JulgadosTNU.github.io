@@ -1,6 +1,6 @@
 # Julgados da TNU
 
-Compilação de julgados da TNU até setembro de 2023
+Compilação de julgados da TNU até outubro de 2023
 
 <a href="https://julgadostnu.github.io/julgados.pdf" title="Compilação de julgados">Clique aqui para acessar o arquivo</a>
 
